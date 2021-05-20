@@ -1,0 +1,10 @@
+# > niconico
+USER-AGENT,Niconico*
+DOMAIN-SUFFIX,dmc.nico
+DOMAIN-SUFFIX,nicovideo.jp
+DOMAIN-SUFFIX,nimg.jp
+DOMAIN-SUFFIX,socdm.com
+# > dmm
+DOMAIN-SUFFIX,dmm.co.jp
+# > dlsite
+DOMAIN-SUFFIX,dlsite.com
