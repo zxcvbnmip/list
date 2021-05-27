@@ -1,0 +1,5 @@
+# > steam
+DOMAIN,store.steampowered.com
+DOMAIN,api.steampowered.com
+# > epic
+DOMAIN-SUFFIX,epicgames.com
